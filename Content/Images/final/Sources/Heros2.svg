@@ -15,7 +15,8 @@
    id="svg17746"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Heros2.svg">
+   sodipodi:docname="Heros2.svg"
+   enable-background="new">
   <defs
      id="defs17748">
     <clipPath
@@ -724,11 +725,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3096009"
-     inkscape:cx="862.24945"
-     inkscape:cy="689.71621"
+     inkscape:zoom="0.63610891"
+     inkscape:cx="784.44116"
+     inkscape:cy="865.08239"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="744"
@@ -743,14 +744,142 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Calque 2"
+     style="display:inline;opacity:1;">
+    <rect
+       style="opacity:0.3;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.42306703;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5027-7-5-2"
+       width="50.949093"
+       height="75.641777"
+       x="-99.365784"
+       y="2115.5061"
+       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.3;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.43958169;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5027"
+       width="54.337673"
+       height="76.569878"
+       x="-67.186867"
+       y="20.2955"
+       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.3;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.42306703;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5027-7"
+       width="50.949093"
+       height="75.641777"
+       x="-100.53941"
+       y="756.17902"
+       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.3;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.42306703;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5027-7-5"
+       width="50.949093"
+       height="75.641777"
+       x="-99.64193"
+       y="1439.1797"
+       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.3;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.57878256;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5027-6"
+       width="94.28611"
+       height="76.500275"
+       x="444.18979"
+       y="20.330299"
+       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.3;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.55090714;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5027-5"
+       width="85.407196"
+       height="76.514214"
+       x="991.09631"
+       y="20.323332"
+       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.3;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.23907115;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5027-7-5-2-1"
+       width="16.268393"
+       height="75.646622"
+       x="984.72339"
+       y="2115.5471"
+       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.3;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.23907115;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5027-7-7"
+       width="16.268393"
+       height="75.646622"
+       x="984.34863"
+       y="756.13306"
+       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.3;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.23907115;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5027-7-5-6"
+       width="16.268393"
+       height="75.646622"
+       x="984.63519"
+       y="1439.1775"
+       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.3;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.48983729;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5027-7-5-2-0"
+       width="68.301765"
+       height="75.640007"
+       x="443.51767"
+       y="2115.4912"
+       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.3;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.48983729;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5027-7-6"
+       width="68.301765"
+       height="75.640007"
+       x="441.94431"
+       y="756.19574"
+       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.3;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.48983729;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5027-7-5-4"
+       width="68.301765"
+       height="75.640007"
+       x="443.14746"
+       y="1439.1805"
+       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35547107px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1014.332,329.95358 28.722,-12.1247"
@@ -760,7 +889,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651-76"
        cx="1044.3425"
        cy="518.81622"
@@ -1181,7 +1310,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651-2-8"
        cx="1578.4918"
        cy="518.81622"
@@ -1578,7 +1707,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651"
        cx="-24.934347"
        cy="518.81622"
@@ -1999,7 +2128,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651-2"
        cx="510.25159"
        cy="518.81622"
@@ -2388,7 +2517,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651-1-0"
        cx="-1005.5389"
        cy="1254.4919"
@@ -2714,7 +2843,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651-1-9-6"
        cx="-1538.9109"
        cy="1254.4919"
@@ -3038,7 +3167,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651-1"
        cx="63.140499"
        cy="1254.4919"
@@ -3364,7 +3493,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651-1-9"
        cx="-471.50543"
        cy="1254.4919"
@@ -3688,7 +3817,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651-1-3-9"
        cx="-1049.2969"
        cy="1951.4462"
@@ -3989,7 +4118,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651-1-3-2-1"
        cx="-1589.2377"
        cy="1951.4462"
@@ -4324,7 +4453,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651-1-3"
        cx="32.56971"
        cy="1951.4462"
@@ -4634,7 +4763,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651-1-3-2"
        cx="-507.6424"
        cy="1951.4462"
@@ -4960,7 +5089,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651-1-3-3-5"
        cx="1004.0746"
        cy="2627.7234"
@@ -5279,7 +5408,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651-1-3-3-9-3"
        cx="1546.3342"
        cy="2627.7234"
@@ -5617,18 +5746,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
-    <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:4.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect11510"
-       width="476.58997"
-       height="137.17871"
-       x="-519.76233"
-       y="3037.4023"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651-1-3-3"
        cx="-77.599251"
        cy="2627.7234"
@@ -5947,7 +6066,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784316;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.60784314;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6651-1-3-3-9"
        cx="463.75964"
        cy="2627.7234"
@@ -6281,5 +6400,35 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4870"
+       width="5.5587964"
+       height="148.6978"
+       x="1573.1394"
+       y="443.67398"
+       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0274045;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4923-4-8"
+       width="1.1726538"
+       height="172.36096"
+       x="675.27423"
+       y="1602.0242"
+       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0274045;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4923-4-8-5"
+       width="1.1726538"
+       height="172.36096"
+       x="1561.8018"
+       y="1435.4171"
+       inkscape:export-filename="/home/dakayl/GDP8_redemption/Content/Images/final/heros_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
