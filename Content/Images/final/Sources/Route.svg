@@ -27,9 +27,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="3.8885982"
      inkscape:cx="656.6978"
-     inkscape:cy="876.62451"
+     inkscape:cy="1000.0623"
      inkscape:document-units="px"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer11"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="744"
@@ -51,13 +51,9 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="Calque 4" />
-  <g
-     inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Calque 2"
-     style="display:inline;opacity:0.97000002">
+     style="display:inline;opacity:1">
     <rect
        style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect15725"
@@ -79,6 +75,10 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Calque 4" />
   <g
      inkscape:groupmode="layer"
      id="layer12"
