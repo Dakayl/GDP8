@@ -725,11 +725,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.63610891"
-     inkscape:cx="784.44116"
-     inkscape:cy="865.08239"
+     inkscape:zoom="0.15902723"
+     inkscape:cx="737.33395"
+     inkscape:cy="-104.9776"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="744"
@@ -878,8 +878,7 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35547107px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1014.332,329.95358 28.722,-12.1247"
